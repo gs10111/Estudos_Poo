@@ -1,3 +1,4 @@
+import ProblemaAutomovel.ComputadorDeBordo;
 import junit.framework.TestCase;
 import org.junit.Before;
 import org.junit.jupiter.api.BeforeEach;

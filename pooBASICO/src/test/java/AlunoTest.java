@@ -2,12 +2,14 @@
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertTrue;
 
+import ProblemaAluno.Aluno;
+import ProblemaAluno.Atividade;
 import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 
 public class AlunoTest {
-static  Aluno aluno = new Aluno("arthur","2");
+static Aluno aluno = new Aluno("arthur","2");
 static Atividade[] atividadesFeitas = {} ;
 
 
